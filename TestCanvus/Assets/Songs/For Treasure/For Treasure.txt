@@ -1,0 +1,11 @@
+For Intro --> Transition, when the transition plays, the intro continues playing for 0.100 seconds before ceasing.
+
+TIMESTAMPS
+
+For Treasure - Perfect Loop
+2.85f
+5.80f
+8.72f
+11.65f
+17.50f
+23.35f

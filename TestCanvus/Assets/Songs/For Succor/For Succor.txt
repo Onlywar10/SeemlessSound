@@ -1,0 +1,13 @@
+For Intro --> Transition, when the transition plays, the intro continues playing for 0.100 seconds before ceasing.
+
+TIMESTAMPS
+
+For Succor - Perfect Loop
+1.77f
+4.68f
+7.63f
+10.52f
+13.47f
+16.40f
+19.32f
+22.25f

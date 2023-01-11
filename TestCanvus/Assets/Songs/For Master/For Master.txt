@@ -1,0 +1,12 @@
+For Intro --> Transition, when the transition plays, the intro continues playing for 0.100 seconds before ceasing.
+
+TIMESTAMPS
+
+For Master - Perfect Loop
+2.87f
+5.77f
+8.72f
+11.63f
+14.60f
+20.43f
+23.37f

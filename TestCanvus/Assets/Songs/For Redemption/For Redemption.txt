@@ -1,0 +1,13 @@
+For Intro --> Transition, when the transition plays, the intro continues playing for 0.100 seconds before ceasing.
+
+TIMESTAMPS
+
+For Redemption - Perfect Loop
+0.03f
+2.95f
+5.90f
+8.82f
+11.72f
+14.63f
+17.58f
+20.50f

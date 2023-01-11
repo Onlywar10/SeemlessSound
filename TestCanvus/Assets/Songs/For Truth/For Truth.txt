@@ -1,0 +1,12 @@
+For Intro --> Transition, when the transition plays, the intro continues playing for 0.100 seconds before ceasing.
+
+TIMESTAMPS
+
+For Truth - Perfect Loop
+1.40f
+3.65f
+6.97f
+9.12f
+12.38f
+14.58f
+16.80f

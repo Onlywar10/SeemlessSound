@@ -1,0 +1,12 @@
+For Intro --> Transition, when the transition plays, the intro continues playing for 0.100 seconds before ceasing.
+
+TIMESTAMPS
+
+For Freedom - Perfect Loop
+2.05f
+4.27f
+8.68f
+13.02f
+17.48f
+
+

@@ -1,0 +1,15 @@
+For Intro --> Transition, when the transition plays, the intro continues playing for 0.100 seconds before ceasing.
+
+TIMESTAMPS
+
+For Light - Perfect Loop
+0.73f
+2.90f
+5.12f
+7.30f
+9.50f
+11.68f
+13.88f
+16.07f
+18.27f
+20.47f
